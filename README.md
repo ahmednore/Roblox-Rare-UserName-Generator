@@ -10,7 +10,7 @@ This generator also supports Discord Webhooks!
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ahmednore/Roblox-Rare-UserName-Generator/blob/master/sexy-image.jpg)
+[Here](https://github.com/ahmednore/Roblox-Rare-UserName-Generator/blob/main/sexy-image.jpg)
 
 
 ## Requirements:

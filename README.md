@@ -7,6 +7,12 @@ This is literally easy to use. However the (very) bad part about this generator 
 
 This generator also supports Discord Webhooks!
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/ahmednore/Roblox-Rare-UserName-Generator/blob/master/sexy-image.jpg)
+
+
 ## Requirements:
 
 - [Node.js](https://nodejs.org/en/download/) V10+
